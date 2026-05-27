@@ -9,11 +9,13 @@ KEY FEATURES:
 - finds weigt ranges
 
 
+
 PROJECT 2: efficieny.py
 
 SUMMARY:dsadas
 KEY FEATURES:dsada
 - sadsa
+
 
 
 PROJECT 3: gamedev.py
@@ -23,6 +25,7 @@ KEY FEATURES:
 -dsad
 
 
+
 PROJECT 4: hacker(1).py
 
 SUMMARY:
@@ -30,11 +33,52 @@ KEY FEATURES:
 -asd
 
 
+
 PROJECT 5: madlibs(2).py
 
 SUMMARY:
 KEY FATURES:
 -asd
+
+
+
+PROJECT 6: peaks.py
+
+SUMMARY:
+KEY FEATURES:
+-a
+
+
+
+PROJECT 7: periodic(1).py
+
+SUMMARY:
+KEY FEATURES:
+-a
+
+
+
+PROJECT 8: pokemon.py
+
+SUMMARY:
+KEY FEATURES:
+-a
+
+
+
+PROJECT 9: simulation.py
+
+SUMMARY:
+KEY FEATURES:
+-a
+
+
+
+PROJECT 10: slot.py
+
+SUMMARY:
+KEY FEATURES:
+-a
 
 
 
